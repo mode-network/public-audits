@@ -1,1 +1,1 @@
-# public-audits
+# MODE Smart Contract Public Audit Reports
